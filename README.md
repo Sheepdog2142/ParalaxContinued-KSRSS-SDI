@@ -9,6 +9,7 @@ The custom configs in this mod are a **complete refactor** to ensure compatibili
 For regular development updates, insights into upcoming features, or to support my work, you can follow my [**Patreon**](https://patreon.com/SheepDogInstitute), where updates are posted frequently.
 
 ---
+![image (1)](https://github.com/user-attachments/assets/edcc83dc-f5c5-458e-92a2-ad5c50d6c8b1)
 
 ## **Features**
 
@@ -30,6 +31,7 @@ To use this mod, the following dependencies must be installed separately:
 - [Module Manager](https://github.com/sarbian/ModuleManager)
 
 ---
+![image (2)](https://github.com/user-attachments/assets/ef099a29-77a1-47f0-bb7d-62c2b56cfcf1)
 
 ## **Installation**
 
