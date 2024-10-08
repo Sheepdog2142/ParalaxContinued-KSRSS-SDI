@@ -67,6 +67,7 @@ To use this mod, the following dependencies must be installed separately:
 
 - **Performance Considerations**: Parallax’s terrain shaders can be demanding on hardware. Performance may suffer on lower-end PCs.
 - **Compatibility**: Make sure other visual mods are configured correctly to avoid conflicts with Parallax.
+- ** If you get a odd pink flickering its due to there being configs in the LegacyUpgrades folder. Make sure you delete anything inside of the file path GameData\Parallax\Exports\LegacyUpgrades 
 
 ---
 
