@@ -41,7 +41,17 @@ To use this mod, the following dependencies must be installed separately:
    - [Parallax Continued](https://www.patreon.com/linx_/posts)
 3. **Download this Mod**: Get the latest release of **Parallax Continued Support for KSRSS** from this repository's [releases](https://github.com/your-repo/releases).
 4. **Extract Files**: Copy the configuration files into your `GameData` folder.
-5. REMOVE the 2 configs in the KSRSS/Terrain folder path
+
+5. **REMOVE the Following Folders**
+* Parallax_StockPlanetTextures\_Configs
+* Parallax_StockScatterTextures\Configs
+* Parallax_StockTerrainTextures\_Configs
+* KSRSS\Terrain\ParallaxSubdivision.cfg
+* KSRSS\Terrain\ParallaxTerrain.cfg
+* KSRSS\Terrain\Scatters\01-Mercury
+* KSRSS\Terrain\Scatters\03_Earth
+* KSRSS\Terrain\Scatters\05-Mars
+   
 6. Delete your ModuleManage Chace files. They need to be regeneratd
 7. **Launch the Game**: Start KSP and enjoy enhanced visuals in KSRSS with Parallax!
 
