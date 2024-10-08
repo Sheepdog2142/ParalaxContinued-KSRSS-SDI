@@ -52,7 +52,7 @@ To use this mod, the following dependencies must be installed separately:
 * KSRSS\Terrain\Scatters\03_Earth
 * KSRSS\Terrain\Scatters\05-Mars
 
-6. Download and extract RSS Terrian: https://github.com/RSS-Reborn/RSS-Terrain/releases.
+6. **FOR HOMEWORLD ONLY ** Download and extract RSS Terrian: https://github.com/RSS-Reborn/RSS-Terrain/releases.
    *Place The following folders into: KSRSS\Terrain\PluginData
       * 03_Earth
       * 03-01_Moon
