@@ -51,9 +51,15 @@ To use this mod, the following dependencies must be installed separately:
 * KSRSS\Terrain\Scatters\01-Mercury
 * KSRSS\Terrain\Scatters\03_Earth
 * KSRSS\Terrain\Scatters\05-Mars
+
+6. Download and extract RSS Terrian: https://github.com/RSS-Reborn/RSS-Terrain/releases.
+   *Place The following folders into: KSRSS\Terrain\PluginData
+      * 03_Earth
+      * 03-01_Moon
+      * 04_Mars
    
-6. Delete your ModuleManage Chace files. They need to be regeneratd
-7. **Launch the Game**: Start KSP and enjoy enhanced visuals in KSRSS with Parallax!
+7. Delete your ModuleManage Cache files. They need to be regeneratd
+8. **Launch the Game**: Start KSP and enjoy enhanced visuals in KSRSS with Parallax!
 
 ---
 
