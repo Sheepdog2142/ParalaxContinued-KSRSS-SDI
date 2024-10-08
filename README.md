@@ -39,10 +39,10 @@ To use this mod, the following dependencies must be installed separately:
 2. **Install KSRSS and Parallax Continued**: Download both mods from their respective Patreon pages:
    - [KSRSS](https://www.patreon.com/ballisticfox/posts)
    - [Parallax Continued](https://www.patreon.com/linx_/posts)
-3. **Download this Mod**: Get the latest release of **Parallax Continued Support for KSRSS** from this repository's [releases](https://github.com/your-repo/releases).
-4. **Extract Files**: Copy the configuration files into your `GameData` folder.
 
-5. **REMOVE the Following Folders**
+3. **Extract Files**: Copy the configuration files into your `GameData` folder.
+
+4. **REMOVE the Following Folders**
 * Parallax_StockPlanetTextures\_Configs
 * Parallax_StockScatterTextures\Configs
 * Parallax_StockTerrainTextures\_Configs
@@ -52,14 +52,14 @@ To use this mod, the following dependencies must be installed separately:
 * KSRSS\Terrain\Scatters\03_Earth
 * KSRSS\Terrain\Scatters\05-Mars
 
-6. **FOR HOMEWORLD ONLY ** Download and extract RSS Terrian: https://github.com/RSS-Reborn/RSS-Terrain/releases.
+5. **FOR HOMEWORLD ONLY ** Download and extract RSS Terrian: https://github.com/RSS-Reborn/RSS-Terrain/releases.
    *Place The following folders into: KSRSS\Terrain\PluginData
       * 03_Earth
       * 03-01_Moon
       * 04_Mars
    
-7. Delete your ModuleManage Cache files. They need to be regeneratd
-8. **Launch the Game**: Start KSP and enjoy enhanced visuals in KSRSS with Parallax!
+6. Delete your ModuleManage Cache files. They need to be regeneratd
+7. **Launch the Game**: Start KSP and enjoy enhanced visuals in KSRSS with Parallax!
 
 ---
 
